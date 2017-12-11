@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build-debug",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "type": "shell",
+      "command": "make",
+      "args": [
+        "debug",
+        "--always-make"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "build-release",
+      "group": "build",
+      "type": "shell",
+      "command": "make",
+      "args": [
+        "--always-make"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}
