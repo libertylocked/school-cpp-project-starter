@@ -1,30 +1,30 @@
 {
-  "configurations": [
-    {
-      "name": "Linux",
-      "includePath": [
-        "/usr/lib/gcc/x86_64-linux-gnu/6/include",
-        "/usr/include/x86_64-linux-gnu/c++/6",
-        "/usr/include/c++/6",
-        "/usr/include/x86_64-linux-gnu",
-        "/usr/include",
-        "${workspaceRoot}"
-      ],
-      "defines": [],
-      "intelliSenseMode": "clang-x64",
-      "browse": {
-        "path": [
-          "/usr/lib/gcc/x86_64-linux-gnu/6/include",
-          "/usr/include/x86_64-linux-gnu/c++/6",
-          "/usr/include/c++/6",
-          "/usr/include/x86_64-linux-gnu",
-          "/usr/include",
-          "${workspaceRoot}"
-        ],
-        "limitSymbolsToIncludedHeaders": true,
-        "databaseFilename": ""
-      }
-    }
-  ],
-  "version": 3
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/lib/gcc/x86_64-linux-gnu/6/include",
+                "/usr/include/x86_64-linux-gnu/c++/6",
+                "/usr/include/c++/6",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include",
+                "${workspaceRoot}"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/lib/gcc/x86_64-linux-gnu/6/include",
+                    "/usr/include/x86_64-linux-gnu/c++/6",
+                    "/usr/include/c++/6",
+                    "/usr/include/x86_64-linux-gnu",
+                    "/usr/include",
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
 }

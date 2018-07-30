@@ -12,7 +12,6 @@ A starter template with code formatter, debugger, tasks, launch file, makefile, 
 ```
 sudo apt install gcc-6 g++-6 libstdc++-6-dev
 ```
-- xterm
 - gdb
 - build-essential package
 ```
